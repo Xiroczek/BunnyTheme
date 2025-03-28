@@ -69,7 +69,8 @@
   "spec": 2,
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/kotru21/Vendetta-discord-theme/main/theme_BG/background.jpg",
+    "url": "https://raw.githubusercontent.com/Xiroczek/BunnyTheme/main/background.jpg",
     "alpha": 0.75,
     "color": "#000000"
   }
+}
