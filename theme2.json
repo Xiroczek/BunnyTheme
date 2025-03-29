@@ -36,8 +36,8 @@
       "#070607"
     ],
     "BACKGROUND_ACCENT": [
-      "#610f77",
-      "#610f77"
+      "#a713b4",
+      "#a914d1"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#be15d29a",
@@ -76,12 +76,12 @@
       "#070607"
     ],
     "CHANNELS_DEFAULT": [
-      "#76617b",
-      "#76617b"
+      "#a22dbd",
+      "#9920b6"
     ],
     "CHANNEL_ICON": [
-      "#6a0065",
-      "#6a0065"
+      "#c901bf",
+      "#e201d7"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#e19cf0",
@@ -188,8 +188,8 @@
       "#e39cf0"
     ],
     "INFO_DANGER_FOREGROUND": [
-      "#7a2482",
-      "#7a2482"
+      "#ad26ba",
+      "#b923c7"
     ],
     "INFO_DANGER_TEXT": [
       "#fb4934",
@@ -249,7 +249,7 @@
     ],
     "LOGO_PRIMARY": [
       "#a58394",
-      "#780772"
+      "#cc0ac2"
     ],
     "MODAL_FOOTER_BACKGROUND": [
       "#170020",
